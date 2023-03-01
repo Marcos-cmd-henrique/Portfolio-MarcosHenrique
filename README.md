@@ -1,2 +1,2 @@
 # Portfolio-MarcosHenrique
-Portfólio front-end para melhores informações das minhas informações.
+Portfólio front-end para melhores informações sobre minha história, projetos, formação e qualificações.
